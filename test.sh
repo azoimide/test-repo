@@ -1,7 +1,6 @@
 #!/bin/sh
 
-sleep 120
+sleep 60
 echo hej jag heter niklas!
-exit 1
 
 
